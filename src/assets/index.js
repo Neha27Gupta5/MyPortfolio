@@ -13,7 +13,7 @@ import twitter from './socials/twitter.png';
 import twitter1 from './socials/twitter (1).png';
 import instagram from './socials/instagram.png';
 import instagram1 from './socials/instagram (1).png';
-import codechef from './socials/codechef.png';
+
 
 // projects
 // import weather from './projects/weather.png';
@@ -32,7 +32,7 @@ import blog2half from './carousels/blog2half.png';
 import flappy from './carousels/flappy.png';
 import flappy1 from './carousels/flappy1.png';
 import flappy2 from './carousels/flappy2.png';
-import weather from './carousels/weather.png';
+import weather from './carousels/Weather.png';
 import weather1 from './carousels/weather1.png';
 import weather2 from './carousels/weather2.png';
 import code1 from './carousels/code1.png';
