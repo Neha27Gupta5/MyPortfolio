@@ -5,7 +5,7 @@ import About from './components/About';
 import Service from './components/Service';
 import TechStack from './components/TechStack';
 import Work from './components/Work';
-import Testimonial from './components/Testimonial';
+// import Testimonial from './components/Testimonial';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import StarsCanvas from './components/Stars';
