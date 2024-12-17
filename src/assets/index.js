@@ -13,7 +13,7 @@ import twitter from './socials/twitter.png';
 import twitter1 from './socials/twitter (1).png';
 import instagram from './socials/instagram.png';
 import instagram1 from './socials/instagram (1).png';
-import codechef1 from './socials/codechef (2).png';
+import codechef from './socials/codechef.png';
 
 // projects
 // import weather from './projects/weather.png';
@@ -40,6 +40,10 @@ import code2 from './carousels/code2.png';
 import code3 from './carousels/code3.png';
 import gradient from './carousels/gradient.png';
 import gradient1 from './carousels/gradient1.png';
+import editor3 from './carousels/editor3.png';
+import editor1 from './carousels/editor1.png';
+import editor2 from './carousels/editor2.png';
+
 
 
 
@@ -55,5 +59,5 @@ export {
   weather, weather1,weather2,
   code1,code2,code3,
   gradient,gradient1,
-  codechef1,
+  editor1,editor2,editor3,
 };

@@ -5,7 +5,8 @@ import {
   weather, weather1,weather2,
   code1,code2,code3,
   gradient,gradient1,
- codechef1,
+  editor1,editor2,editor3,
+ 
 } from '../assets';
 
 const social = [
@@ -195,8 +196,18 @@ const projects = [
     tech: ['React'],
     img: gradient,  
     carousel: [gradient,gradient1], 
-    source_link: 'https://github.com/yourusername/random-gradient-generator',  // Update with your GitHub repo link
+    source_link: 'https://github.com/yourusername/random-gradient-generator',  
     live_link: 'https://gradient-generation.netlify.app',
+  },
+  {
+    id: 6,
+    name: 'Code Editor',
+    desc: 'A simple code editor built with HTML, CSS, and JavaScript that allows users to write, edit, copy, download code, and see real-time results in the browser. It features basic syntax highlighting and a seamless user experience',
+    tech: ['HTML','CSS','JavaScript'],
+    img: editor1,  
+    carousel: [editor1,editor2,editor3], 
+    source_link: 'https://github.com/Neha27Gupta5/Code-Editor',  
+    live_link: 'https://mycode-editor-html-css-js.netlify.app/',
   },
 
 ];

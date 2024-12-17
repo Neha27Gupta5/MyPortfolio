@@ -4,6 +4,7 @@ import { motion } from 'framer-motion';
 import style from './styles/home.module.css';
 import { fadeIn, staggerContainer } from '../utils/motion';
 
+
 const Home = () => (
   <motion.section
     variants={staggerContainer()}
