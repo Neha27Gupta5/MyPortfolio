@@ -24,5 +24,4 @@ dist-ssr
 *.sw?
 
 Testimonial.jsx
-.stylelintrc.json
-.bebelrc
+

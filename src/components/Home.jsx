@@ -3,7 +3,7 @@ import { MdOutlineArrowForwardIos } from 'react-icons/md';
 import { motion } from 'framer-motion';
 import style from './styles/home.module.css';
 import { fadeIn, staggerContainer } from '../utils/motion';
-
+import downloadimg from '../assets/download.jpeg'
 
 const Home = () => (
   <motion.section
@@ -13,13 +13,15 @@ const Home = () => (
     viewport={{ once: false, amount: 0.25 }}
   >
     <div className={style.container}>
-        <motion.span variants={fadeIn('', '', 0.1, 1)} className={style.name}>
+        <motion.span variants={fadeIn('', '', 0.1, 1)} className={style.name} style={{
+          marginBottom:'1rem',
+        }}>
         <img 
-             src="./assets/download.jpeg" 
+             src={downloadimg}   
              alt="pic" 
              style={{
-              width: '200px',
-              height: '200px',
+              width: '150px',
+              height: '150px',
               borderRadius: '50%',
               objectFit: 'cover'
             }} 
