@@ -15,7 +15,7 @@ const Home = () => (
     <div className={style.container}>
         <motion.span variants={fadeIn('', '', 0.1, 1)} className={style.name}>
         <img 
-             src="src/assets/download.jpeg" 
+             src="./assets/download.jpeg" 
              alt="pic" 
              style={{
               width: '200px',
